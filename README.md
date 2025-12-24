@@ -34,3 +34,21 @@ An interactive Power BI dashboard is used to transform raw data into meaningful 
 - **Expand kids and family-friendly content** to attract younger audiences.  
 - **Prioritize high-performing genres** to maximize viewer engagement.  
 - **Leverage interactive dashboards** for continuous, data-driven decision making.  
+
+## Tools & Technologies
+- Power BI  
+- Microsoft Excel / CSV  
+- Data Visualization & Analysis  
+
+## How to Use
+1. Download the dataset from the `Data/` folder.  
+2. Open the Power BI file from the `Visualizations/` folder using Power BI Desktop.  
+3. Explore the interactive dashboard to view insights and trends.
+
+## Author
+Chaithra V  
+Aspiring Data Analyst  
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
